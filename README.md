@@ -16,7 +16,7 @@
 
 **[The Flip-Flop Technique →](https://chrisburnell.com/article/the-flip-flop-technique/)**
 
-> “I recently implemented a colour scheme toggler in the footer of my website, following <a href="https://andy-bell.design" rel="external">Andy Bell’s</a> guide, <a href="https://andy-bell.design/wrote/create-a-user-controlled-dark-or-light-mode">Create a user controlled dark or light mode</a>, and I found a wonky but fun alternative solution for styling my dark theme which leverages CSS’s filter property.”
+> “I recently implemented a colour scheme toggler in the footer of my website, following Andy Bell’s guide, [Create a user controlled dark or light mode](https://hankchizljaw.com/wrote/create-a-user-controlled-dark-or-light-mode), and I found a wonky but fun alternative solution for styling my dark theme which leverages CSS’s filter property.”
 
 ### ☕️ Get in touch
 
