@@ -4,6 +4,8 @@
 
 ### 📑 Select Projects
 
+**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.”
+
 **[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS”
 
 **[Micrathene](https://github.com/chrisburnell/micrathene/)** — “Microlite20 Character Builder built on [11ty](https://github.com/11ty/eleventy)”
