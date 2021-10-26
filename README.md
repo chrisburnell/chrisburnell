@@ -1,16 +1,16 @@
 # Hey, I’m Chris.
 
-> *I’m looking for new full-time work right now, so please get in touch if you’d like to have a chat!*
-
 ### 📑 Select Projects
 
-**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.”
+**[spark-line](https://github.com/chrisburnell/spark-line/)** — “Turn any array of integers into a fun little chart.” *([npm](https://www.npmjs.com/package/@chrisburnell/spark-line))*
 
-**[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS”
+**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.” *([npm](https://www.npmjs.com/package/@chrisburnell/pentatonic))*
+
+**[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS” *([npm](https://www.npmjs.com/package/@chrisburnell/bowhead))*
 
 **[Micrathene](https://github.com/chrisburnell/micrathene/)** — “Microlite20 Character Builder built on [11ty](https://github.com/11ty/eleventy)”
 
-**[My website](https://github.com/chrisburnell/chrisburnell.com/)** — Literally the source code for my website.
+**[My website](https://github.com/chrisburnell/chrisburnell.com/)** — My most-prized “possession”, also an [11ty](https://github.com/11ty/eleventy) project.
 
 ### 📃 Select Articles
 
@@ -22,9 +22,10 @@
 
 > “I have been following in the footsteps of Jeremy Keith for a few months now. Dotted around my website, now, are sparklines, representing my activity over time. As an added bonus, a little tune based on the sparkline's values plays when you click on it. With a moderate amount of musical theory under my belt, here's how I accomplished that audio delight.”
 
-### ☕️ Get in touch
+### ✋ Find me elsewhere
 
 - My website: [https://chrisburnell.com](https://chrisburnell.com)
+- CodePen: [chrisburnell](https://codepen.io/chrisburnell)
 - Mastodon: [@chrisburnell@mastodon.social](https://mastodon.social/users/chrisburnell)
 - Twitter: [@iamchrisburnell](https://twitter.com/iamchrisburnell)
 
