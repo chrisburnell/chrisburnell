@@ -2,15 +2,15 @@
 
 ### 📑 Select Projects
 
-**[spark-line](https://github.com/chrisburnell/spark-line/)** — “Turn any array of integers into a fun little chart.” *([npm](https://www.npmjs.com/package/@chrisburnell/spark-line))*
+**[spark-line](https://github.com/chrisburnell/spark-line/)** — “Turn any array of integers into a fun little chart.” *([npm](https://www.npmjs.com/package/@chrisburnell/spark-line), [website](https://chrisburnell.com/spark-line/))*
 
-**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.” *([npm](https://www.npmjs.com/package/@chrisburnell/pentatonic))*
+**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.” *([npm](https://www.npmjs.com/package/@chrisburnell/pentatonic), [website](https://chrisburnell.com/pentatonic/))*
 
-**[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS” *([npm](https://www.npmjs.com/package/@chrisburnell/bowhead))*
+**[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS” *([npm](https://www.npmjs.com/package/@chrisburnell/bowhead), [website](https://chrisburnell.com/bowhead/))*
 
-**[Micrathene](https://github.com/chrisburnell/micrathene/)** — “Microlite20 Character Builder built on [11ty](https://github.com/11ty/eleventy)”
+**[Micrathene](https://github.com/chrisburnell/micrathene/)** — “Microlite20 Character Builder built on [11ty](https://github.com/11ty/eleventy)” *([website](https://micro.bloodbuilder.online/))*
 
-**[My website](https://github.com/chrisburnell/chrisburnell.com/)** — My most-prized “possession”, also an [11ty](https://github.com/11ty/eleventy) project.
+**[My website](https://github.com/chrisburnell/chrisburnell.com/)** — My most-prized “possession”, also an [11ty](https://github.com/11ty/eleventy) project. *([website](https://chrisburnell.com/))*
 
 ### 📃 Select Articles
 
