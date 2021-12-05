@@ -2,17 +2,21 @@
 
 ### 📑 Select Projects
 
-**[spark-line](https://github.com/chrisburnell/spark-line/)** — “Turn any array of integers into a fun little chart.” *([npm](https://www.npmjs.com/package/@chrisburnell/spark-line), [website](https://chrisburnell.com/spark-line/))*
+**[chrisburnell.com](https://github.com/chrisburnell/chrisburnell.com/)** — My most-prized “possession”, also an [11ty](https://github.com/11ty/eleventy) project. *([website](https://chrisburnell.com/))*
 
-**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.” *([npm](https://www.npmjs.com/package/@chrisburnell/pentatonic), [website](https://chrisburnell.com/pentatonic/))*
+**[eleventy-cache-webmentions](https://github.com/chrisburnell/eleventy-cache-webmentions/)** — “Cache webmentions using eleventy-cache-assets and make them available to use in collections, templates, pages, etc.” *([npm](https://www.npmjs.com/package/@chrisburnell/eleventy-cache-webmentions), [website](https://chrisburnell.com/eleventy-cache-webmentions/))*
+
+**[spark-line](https://github.com/chrisburnell/spark-line/)** — “Turn any array of integers into a fun little chart.” *([npm](https://www.npmjs.com/package/@chrisburnell/spark-line), [website](https://chrisburnell.com/spark-line/))*
 
 **[Bowhead](https://github.com/chrisburnell/bowhead/)** — “Memorable and maintainable design tokens in SCSS” *([npm](https://www.npmjs.com/package/@chrisburnell/bowhead), [website](https://chrisburnell.com/bowhead/))*
 
-**[Micrathene](https://github.com/chrisburnell/micrathene/)** — “Microlite20 Character Builder built on [11ty](https://github.com/11ty/eleventy)” *([website](https://micro.bloodbuilder.online/))*
-
-**[My website](https://github.com/chrisburnell/chrisburnell.com/)** — My most-prized “possession”, also an [11ty](https://github.com/11ty/eleventy) project. *([website](https://chrisburnell.com/))*
+**[Pentatonic](https://github.com/chrisburnell/pentatonic/)** — “Turn any array of integers into a fun little melody.” *([npm](https://www.npmjs.com/package/@chrisburnell/pentatonic), [website](https://chrisburnell.com/pentatonic/))*
 
 ### 📃 Select Articles
+
+**[Deep Dive into Colour →](https://chrisburnell.com/article/deep-dive-into-colour/)**
+
+> “How to make powerful use of CSS Variables, colour spaces, and the cascade using Bowhead.”
 
 **[Sassy Lobotomised Owl →](https://chrisburnell.com/article/sassy-lobotomised-owl/)**
 
