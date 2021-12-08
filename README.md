@@ -1,4 +1,4 @@
-# Hey, I’m Chris.
+# Hey, my name’s Chris, and I’m ravenous for CSS.
 
 ### 📑 Select Projects
 
