@@ -30,7 +30,7 @@
 
 - My website: [https://chrisburnell.com](https://chrisburnell.com)
 - CodePen: [chrisburnell](https://codepen.io/chrisburnell)
-- Mastodon: [@chrisburnell@mastodon.social](https://mastodon.social/users/chrisburnell)
+- Mastodon: [@chris@social.chrisburnell.com](https://social.chrisburnell.com/users/chris)
 - Twitter: [@iamchrisburnell](https://twitter.com/iamchrisburnell)
 
 <!--
