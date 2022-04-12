@@ -28,10 +28,10 @@
 
 ### ✋ Find me elsewhere
 
-- My website: [https://chrisburnell.com](https://chrisburnell.com)
-- CodePen: [chrisburnell](https://codepen.io/chrisburnell)
-- Mastodon: [@chris@social.chrisburnell.com](https://social.chrisburnell.com/users/chris)
-- Twitter: [@iamchrisburnell](https://twitter.com/iamchrisburnell)
+- My website: <a href="https://chrisburnell.com/" rel="me">chrisburnell.com</a>
+- CodePen: <a href="https://codepen.io/chrisburnell" rel="me">chrisburnell</a>
+- Mastodon: <a href="https://social.chrisburnell.com/@chris" rel="me">@chris@social.chrisburnell.com</a>
+- Twitter: <a href="https://twitter.com/iamchrisburnell" rel="me">@iamchrisburnell</a>
 
 <!--
 **chrisburnell/chrisburnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
