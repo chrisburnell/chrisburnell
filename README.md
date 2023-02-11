@@ -9,5 +9,4 @@
   - Subscribe to the feed (with RSS): <a href="https://chrisburnell.com/feed.xml" rel="me">https://chrisburnell.com/feed.xml</a>
 - npm: <a href="https://www.npmjs.com/~chrisburnell" rel="me">chrisburnell</a>
 - CodePen: <a href="https://codepen.io/chrisburnell" rel="me">chrisburnell</a>
-- Mastodon: <a href="https://social.chrisburnell.com/@chris" rel="me">@​chris@​social.chrisburnell.com</a>
-- Twitter: <a href="https://twitter.com/iamchrisburnell" rel="me">@iamchrisburnell</a>
+- Mastodon: <a href="https://fediverse.repc.co/@chrisburnell" rel="me">@​chrisburnell@​repc.co</a>
