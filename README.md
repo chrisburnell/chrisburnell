@@ -3,6 +3,7 @@
 ### ✋ Find me elsewhere
 
 - My website: <a href="https://chrisburnell.com/" rel="me">chrisburnell.com</a>
+  - Explore: <a href="https://chrisburnell.com/explore/" rel="me">https://chrisburnell.com/explore</a>
   - Projects: <a href="https://chrisburnell.com/projects/" rel="me">https://chrisburnell.com/projects</a>
   - Writing: <a href="https://chrisburnell.com/writing/" rel="me">https://chrisburnell.com/writing</a>
   - Sign my Guestbook (with Webmentions): <a href="https://chrisburnell.com/guestbook/" rel="me">https://chrisburnell.com/guestbook</a>
