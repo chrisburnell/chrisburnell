@@ -8,8 +8,8 @@ I’m **Ravenous for CSS** and I think, write, and share my passion for front en
 
 [Sign my Guestbook (with Webmentions)](https://chrisburnell.com/guestbook/) · [Subscribe with RSS](https://chrisburnell.com/feed.xml)
 
-![Buy me a coffee 88x31 badge](https://chrisburnell.com/images/buy-me-a-coffee.png)
+[![Buy me a coffee 88x31 badge](https://chrisburnell.com/images/buy-me-a-coffee.png)](https://www.buymeacoffee.com/chrisburnell)
 
 ## ✋ Find me elsewhere
 
-<a href="https://codepen.io/chrisburnell" rel="me">CodePen</a> · <a href="https://fediverse.repc.co/@chrisburnell" rel="me">Mastodon</a> · <a href="https://www.npmjs.com/~chrisburnell" rel="me">npm</a> · <a href="xmpp:chrisburnell@xmpp.earth" rel="me">XMPP</a>
+<a href="https://codepen.io/chrisburnell" rel="me">CodePen</a> · <a href="https://fediverse.repc.co/@chrisburnell" rel="me">Mastodon</a> · <a href="https://www.linkedin.com/in/chrisburnell" rel="me">LinkedIn</a> · <a href="https://www.npmjs.com/~chrisburnell" rel="me">npm</a> · <a href="xmpp:chrisburnell@xmpp.earth" rel="me">XMPP</a>
