@@ -4,9 +4,9 @@ I’m a Canadian Front End Developer / Software Engineer based in Singapore. I�
 
 I’m **Ravenous for CSS** and I think, write, and share my passion for front end development and the web on my website:
 
-<a href="https://chrisburnell.com/" rel="me">chrisburnell.com</a> · [Blog](https://chrisburnell.com/posts/) · [Explore](https://chrisburnell.com/explore/) · [Projects](https://chrisburnell.com/projects/)
+<a href="https://chrisburnell.com/" rel="me">chrisburnell.com</a> · [CV](https://chrisburnell.com/cv/) · [Blog](https://chrisburnell.com/posts/) · [Projects](https://chrisburnell.com/projects/) · [Explore](https://chrisburnell.com/explore/)
 
-[Sign my Guestbook (with Webmentions)](https://chrisburnell.com/guestbook/) · [Subscribe with RSS](https://chrisburnell.com/feed.xml)
+[Sign my Guestbook (with Webmentions)](https://chrisburnell.com/guestbook/) · [Subscribe with RSS](https://chrisburnell.com/feed.xml) · [Want my help?](https://chrisburnell.com/help/)
 
 [![Buy me a coffee 88x31 badge](https://chrisburnell.com/images/buy-me-a-coffee.png)](https://www.buymeacoffee.com/chrisburnell)
 
