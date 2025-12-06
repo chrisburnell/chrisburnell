@@ -13,4 +13,4 @@ I’m **Ravenous for CSS** and I think, write, and share my passion for front en
 
 ## ✋ Find me elsewhere
 
-<a href="https://bsky.app/profile/chrisburnell.com" rel="me">Bluesky</a> · <a href="https://codepen.io/chrisburnell" rel="me">CodePen</a> · <a href="https://fediverse.repc.co/@chrisburnell" rel="me">Mastodon</a> · <a href="https://www.linkedin.com/in/chrisburnell" rel="me">LinkedIn</a> · <a href="https://www.npmjs.com/~chrisburnell" rel="me">npm</a> · <a href="xmpp:chrisburnell@xmpp.earth" rel="me">XMPP</a>
+<a href="https://bsky.app/profile/chrisburnell.com" rel="me">Bluesky</a> · <a href="https://codepen.io/chrisburnell" rel="me">CodePen</a> · <a href="https://git.chrisburnell.com/chrisburnell" rel="me">Git (Self-Hosted)</a> · <a href="https://fediverse.repc.co/@chrisburnell" rel="me">Mastodon</a> · <a href="https://www.linkedin.com/in/chrisburnell" rel="me">LinkedIn</a> · <a href="https://www.npmjs.com/~chrisburnell" rel="me">npm</a> · <a href="xmpp:chrisburnell@xmpp.earth" rel="me">XMPP</a>
