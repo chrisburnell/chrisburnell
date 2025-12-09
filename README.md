@@ -1,6 +1,6 @@
 # [<img src="https://chrisburnell.com/images/raven.svg" width="40" aria-hidden="true"> Hey, I’m Chris!](https://chrisburnell.com/)
 
-I’m a Canadian Front End Developer / Software Engineer based in [Halifax, Canada](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia). I’ve been coding professionally since 2008 and my focus is on front end, design systems, and technical leadership. 
+I’m a Canadian Front End Developer / Software Engineer based in ~[🇬🇧 London](https://en.wikipedia.org/wiki/London)~ ~[🇸🇬 Singapore](https://en.wikipedia.org/wiki/Singapore)~ [🇨🇦 Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia). I’ve been coding professionally since 2008 and my focus is on front end, design systems, and technical leadership. 
 
 I’m **Ravenous for CSS** and I think, write, and share my passion for front end development and the web on my website:
 
