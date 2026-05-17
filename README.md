@@ -8,8 +8,8 @@ I’m **Ravenous for CSS** and I think, write, and share my passion for front en
 
 [Sign my Guestbook (with Webmentions)](https://chrisburnell.com/guestbook/) · [Subscribe with RSS](https://chrisburnell.com/feed.xml) · [Want my help?](https://chrisburnell.com/help/)
 
-[![Personal site 88x31 badge](https://chrisburnell.com/images/animated/88x31.gif)](https://chrisburnell.com/) 
-[![Buy me a coffee 88x31 badge](https://chrisburnell.com/images/buy-me-a-coffee.gif)](https://www.buymeacoffee.com/chrisburnell) ![Written by a human badge](https://chrisburnell.com/images/written-by-a-human.gif) ![Powered by EchoFeed badge](https://chrisburnell.com/images/powered-by-echofeed-orange.gif) ![Built with Eleventy badge](https://chrisburnell.com/images/animated/built-with-eleventy.gif)
+[![Personal site 88x31 badge](https://chrisburnell.com/images/animated/88x31.gif)](https://chrisburnell.com/) [![Uptime 88x31 badge](https://chrisburnell.com/images/uptime.gif)](https://status.chrisburnell.com/#chrisburnell.com)
+![Written by a human badge](https://chrisburnell.com/images/written-by-a-human.gif) [![Buy me a coffee 88x31 badge](https://chrisburnell.com/images/buy-me-a-coffee.gif)](https://www.buymeacoffee.com/chrisburnell) [![Powered by EchoFeed badge](https://chrisburnell.com/images/powered-by-echofeed-orange.gif)](https://echofeed.app/@chrisburnell/) [![Built with Eleventy badge](https://chrisburnell.com/images/animated/built-with-eleventy.gif)](https://www.11ty.dev/authors/chrisburnell/)
 
 ## ✋ Find me elsewhere
 
